@@ -4,6 +4,8 @@
 <p>
   Started as an Android developer, transitioned to React Native, and now proficiently develop cross-platform iOS and Android apps using JavaScript. Experienced in both Expo and CLI environments, I prioritize seamless user experiences, performance optimization, and cross-platform compatibility. Passionate about innovation, I thrive on pushing the boundaries of mobile development.</p>
 
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/74b1705aa2dafc4ce3d68a181769b79d28eb347c4aa8946e2997a2908a29281f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966" />
+
 - 🔭 I’m currently working on **Track Life app**
 
 - 👯 I’m looking to collaborate on **exciting projects that challenge conventional boundaries**
