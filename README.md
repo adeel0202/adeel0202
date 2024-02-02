@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **anything related to mobile apps**
 
+- 🌱 I’m currently learning **Next.js and Tailwind CSS**
+
 - 📫 How to reach me **adeel0202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
